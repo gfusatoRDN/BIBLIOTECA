@@ -1,0 +1,5006 @@
+[
+  {
+    "Autore": "Fulton J. Sheen",
+    "Titolo": "Dio e l'intelligenza",
+    "Editore": "Borla",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Ultime lettere da Stalingrado",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Nicolas Bourbaki",
+    "Titolo": "Elementi di storia della matematica",
+    "Editore": "Feltrinelli",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giancarlo Vigorelli",
+    "Titolo": "Il Gesuita proibito",
+    "Editore": "Il Saggiatore",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Carlo Levi",
+    "Titolo": "Cristo si è fermato a Eboli",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Bertolt Brecht",
+    "Titolo": "Vita di Galileo",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Luca Pietromarchi",
+    "Titolo": "Il mondo sovietico",
+    "Editore": "Bompiani",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Primo Mazzolari",
+    "Titolo": "Mazzolari, antologia dei suoi scritti",
+    "Editore": "Borla",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Fortuna di Galileo",
+    "Editore": "",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "A. Daniel",
+    "Titolo": "(titolo non identificato)",
+    "Editore": "",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso poco leggibile"
+  },
+  {
+    "Autore": "",
+    "Titolo": "La storia di Albert Schweitzer",
+    "Editore": "Fratelli Fabbri Editori",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dominique Fernandez",
+    "Titolo": "Madre Mediterranea",
+    "Editore": "Mondadori",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Edgar Lee Masters",
+    "Titolo": "Antologia di Spoon River",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "I disperati del Don",
+    "Editore": "",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Giulio Bevilacqua",
+    "Titolo": "Mondo moderno e Cristo",
+    "Editore": "Morcelliana",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Richard Wright",
+    "Titolo": "Ragazzo negro",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dino Buzzati",
+    "Titolo": "(romanzo, titolo coperto)",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "titolo da verificare"
+  },
+  {
+    "Autore": "Graham Greene",
+    "Titolo": "Il nostro agente all'Avana",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giovanni Verga",
+    "Titolo": "I Malavoglia",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Guy de Maupassant",
+    "Titolo": "Una vita",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Riccardo Bacchelli",
+    "Titolo": "Il diavolo al Pontelungo",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Cesare Pavese",
+    "Titolo": "La bella estate",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "George Bernard Shaw",
+    "Titolo": "La professione della signora Warren - Cesare e Cleopatra - La miliardaria",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Riccardo Bacchelli",
+    "Titolo": "La città degli amanti",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Angelo Iachino",
+    "Titolo": "Tramonto di una grande marina",
+    "Editore": "Mondadori",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Antonino Trizzino",
+    "Titolo": "Navi e poltrone",
+    "Editore": "Longanesi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Antonio Gramsci",
+    "Titolo": "Lettere dal carcere",
+    "Editore": "Einaudi",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Luigi Barzini",
+    "Titolo": "Gli italiani",
+    "Editore": "Mondadori",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Erasmo da Rotterdam",
+    "Titolo": "Elogio della follia",
+    "Editore": "Mursia",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alfred Ancel",
+    "Titolo": "Cinque anni con gli operai",
+    "Editore": "",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "C. Northcote Parkinson",
+    "Titolo": "La legge di Parkinson",
+    "Editore": "Bompiani",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dino Buzzati",
+    "Titolo": "Il deserto dei Tartari",
+    "Editore": "Mondadori",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Carlos Fuentes",
+    "Titolo": "Cambio di pelle",
+    "Editore": "Feltrinelli",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Fëdor Dostoevskij",
+    "Titolo": "Delitto e castigo",
+    "Editore": "Sansoni",
+    "Scaffale": "1",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giuseppe Fiori",
+    "Titolo": "Vita di Antonio Gramsci",
+    "Editore": "Laterza",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jean-François Steiner",
+    "Titolo": "Treblinka",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Beethoven",
+    "Editore": "",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore/editore da verificare"
+  },
+  {
+    "Autore": "Albert Ducrocq",
+    "Titolo": "Il romanzo della materia",
+    "Editore": "Einaudi",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "James Parkes",
+    "Titolo": "Gli ebrei e la diaspora",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Un passo, un altro passo",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Ivo Andrić",
+    "Titolo": "Il ponte sulla Drina",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Pinchas E. Lapide",
+    "Titolo": "Roma e gli ebrei",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Lettere di condannati a morte della Resistenza europea",
+    "Editore": "Einaudi",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Massimo Mila",
+    "Titolo": "L'esperienza musicale e l'estetica",
+    "Editore": "Einaudi",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ignazio Silone",
+    "Titolo": "L'avventura d'un povero cristiano",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "C.W. Ceram",
+    "Titolo": "(titolo da verificare)",
+    "Editore": "Einaudi",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Léon Poliakov",
+    "Titolo": "Il nazismo e lo sterminio degli ebrei",
+    "Editore": "Einaudi",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jean-Jacques Servan-Schreiber",
+    "Titolo": "La sfida americana",
+    "Editore": "Etas Kompass",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Robert Jungk",
+    "Titolo": "Gli apprendisti stregoni. Storia degli scienziati atomici",
+    "Editore": "Einaudi",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Panfilo Gentile",
+    "Titolo": "Opinioni sgradevoli",
+    "Editore": "",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Enrico Emanuelli",
+    "Titolo": "Curriculum mortis",
+    "Editore": "Feltrinelli",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Lorenzo Milani",
+    "Titolo": "Esperienze pastorali",
+    "Editore": "Libreria Editrice Fiorentina",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Lorenzo Milani",
+    "Titolo": "L'obbedienza non è più una virtù",
+    "Editore": "Libreria Editrice Fiorentina",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "A.S. Neill",
+    "Titolo": "Summerhill",
+    "Editore": "",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Martin Luther King",
+    "Titolo": "Oltre il Vietnam",
+    "Editore": "",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Martin Luther King",
+    "Titolo": "Lettere dal carcere",
+    "Editore": "",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "Il ... la Signora, la Chiesa e i Poveri",
+    "Editore": "",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso poco leggibile"
+  },
+  {
+    "Autore": "Peter G. Bergmann",
+    "Titolo": "L'enigma della gravitazione",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Oriana Fallaci",
+    "Titolo": "Niente e così sia",
+    "Editore": "Rizzoli",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Guido Piovene",
+    "Titolo": "Le stelle fredde",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Elio Vittorini",
+    "Titolo": "Le città del mondo",
+    "Editore": "Einaudi",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Inumane vite",
+    "Editore": "",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Roger Garaudy",
+    "Titolo": "Tutta la verità",
+    "Editore": "",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Ignazio Silone",
+    "Titolo": "Fontamara",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Vincenzo e Luigi Pappalettera",
+    "Titolo": "La parola agli aguzzini",
+    "Editore": "Mondadori",
+    "Scaffale": "2",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alberto Moravia",
+    "Titolo": "Il Paradiso",
+    "Editore": "Bompiani",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ignazio Silone",
+    "Titolo": "Vino e pane",
+    "Editore": "Mondadori",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "Oscar Mondadori"
+  },
+  {
+    "Autore": "Ignazio Silone",
+    "Titolo": "Il segreto di Luca",
+    "Editore": "Mondadori",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "Oscar Mondadori"
+  },
+  {
+    "Autore": "",
+    "Titolo": "Lettere di don Lorenzo Milani priore di Barbiana",
+    "Editore": "Mondadori",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "(Cultura Editrice - titolo da verificare)",
+    "Editore": "Cultura Editrice",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso poco leggibile"
+  },
+  {
+    "Autore": "Roger Garaudy",
+    "Titolo": "(titolo da verificare)",
+    "Editore": "Sansoni Accademia",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Aleksandr Solženicyn",
+    "Titolo": "Una giornata di Ivan Denisovič",
+    "Editore": "Garzanti",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Emilio Lussu",
+    "Titolo": "Un anno sull'Altipiano",
+    "Editore": "Einaudi",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Artur London",
+    "Titolo": "La confessione",
+    "Editore": "",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Aleksandr Solženicyn",
+    "Titolo": "Reparto C",
+    "Editore": "",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Mario Lodi",
+    "Titolo": "Il paese sbagliato",
+    "Editore": "Einaudi",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Basil Davidson",
+    "Titolo": "La liberazione della Guinea",
+    "Editore": "Einaudi",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Storia del popolo ebraico",
+    "Editore": "Einaudi",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Beppe Fenoglio",
+    "Titolo": "Un giorno di fuoco",
+    "Editore": "Garzanti",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Aleksandr Solženicyn",
+    "Titolo": "Il primo cerchio",
+    "Editore": "Mondadori",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Aleksandr Solženicyn",
+    "Titolo": "La casa di Matriona",
+    "Editore": "",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Raffaello Brignetti",
+    "Titolo": "La spiaggia d'oro",
+    "Editore": "Rizzoli",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Arthur M. Schlesinger Jr.",
+    "Titolo": "Crisi di fiducia",
+    "Editore": "Rizzoli",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Enzo Biagi",
+    "Titolo": "Testimone del tempo",
+    "Editore": "SEI",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Luigi Santucci",
+    "Titolo": "Il velocifero",
+    "Editore": "Mondadori",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "Oscar Mondadori"
+  },
+  {
+    "Autore": "",
+    "Titolo": "L'altra faccia del ...",
+    "Editore": "Einaudi",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso poco leggibile"
+  },
+  {
+    "Autore": "Lodovico Montini",
+    "Titolo": "Giorno per giorno tra i protagonisti di un'epoca 1944-1970",
+    "Editore": "Vallecchi",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Aleksandr Solženicyn",
+    "Titolo": "Agosto 1914",
+    "Editore": "Mondadori",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Frei Betto (C.A. Libânio Christo)",
+    "Titolo": "Dai sotterranei della storia",
+    "Editore": "",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Edward de Bono",
+    "Titolo": "Il meccanismo della mente",
+    "Editore": "Rizzoli",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Paulo Freire",
+    "Titolo": "La pedagogia degli oppressi",
+    "Editore": "Mondadori",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Charles A. Reich",
+    "Titolo": "La nuova America",
+    "Editore": "",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "Debussy",
+    "Editore": "",
+    "Scaffale": "3",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "Ravel",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "I limiti dello sviluppo",
+    "Editore": "Mondadori",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "MIT - Club di Roma"
+  },
+  {
+    "Autore": "Sydney Gordon; Ted Allan",
+    "Titolo": "Il bisturi e la spada",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Mario Tobino",
+    "Titolo": "Per le antiche scale",
+    "Editore": "Mondadori",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jan Myrdal",
+    "Titolo": "Rapporto da un villaggio cinese",
+    "Editore": "Einaudi",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "Nuovo Politecnico"
+  },
+  {
+    "Autore": "François-André Isambert",
+    "Titolo": "Cristianesimo e classe operaia",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Mohandas K. Gandhi",
+    "Titolo": "Teoria e pratica della non violenza",
+    "Editore": "Einaudi",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Le organizzazioni rivoluzionarie nelle chiese europee",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Giulio Bedeschi",
+    "Titolo": "Centomila gavette di ghiaccio",
+    "Editore": "Mursia",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "L'educazione come pratica della libertà",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Colin Turnbull",
+    "Titolo": "L'africano solitario",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Lorenzo Milani",
+    "Titolo": "Lettere alla mamma 1943-1967",
+    "Editore": "Mondadori",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "Oscar Mondadori"
+  },
+  {
+    "Autore": "Luigi Magnani",
+    "Titolo": "Il nipote di Beethoven",
+    "Editore": "Einaudi",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Franco Basaglia",
+    "Titolo": "L'istituzione negata",
+    "Editore": "Einaudi",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "Nuovo Politecnico"
+  },
+  {
+    "Autore": "",
+    "Titolo": "Morte e vita di Hector Gallego",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Frantz Fanon",
+    "Titolo": "I dannati della terra",
+    "Editore": "Einaudi",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Natalia Ginzburg",
+    "Titolo": "Lessico famigliare",
+    "Editore": "Einaudi",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Richard Bach",
+    "Titolo": "Il gabbiano Jonathan Livingston",
+    "Editore": "Rizzoli",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Oriana Fallaci",
+    "Titolo": "Intervista con la storia",
+    "Editore": "Rizzoli",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "José María Díez-Alegría",
+    "Titolo": "Io credo nella speranza",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Mario V. Rossi",
+    "Titolo": "I giorni dell'onnipotenza",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Alberto Ronchey",
+    "Titolo": "Figlioli miei, marxisti immaginari",
+    "Editore": "Rizzoli",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dietrich Bonhoeffer",
+    "Titolo": "Sequela",
+    "Editore": "Queriniana",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ernesto Cardenal",
+    "Titolo": "Il Vangelo a Solentiname",
+    "Editore": "Cittadella",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Enzo Biagi",
+    "Titolo": "La geografia di Biagi: America",
+    "Editore": "Rizzoli",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Enzo Biagi",
+    "Titolo": "La geografia di Biagi: Italia",
+    "Editore": "Rizzoli",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Enzo Biagi",
+    "Titolo": "La geografia di Biagi: Germania",
+    "Editore": "Rizzoli",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Albert Speer",
+    "Titolo": "Memorie del Terzo Reich",
+    "Editore": "Mondadori",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Augusto Roa Bastos",
+    "Titolo": "Figlio di uomo",
+    "Editore": "Feltrinelli",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Michael Pearson",
+    "Titolo": "Il treno piombato",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Pio Baldelli",
+    "Titolo": "Informazione e controinformazione",
+    "Editore": "",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Kurt Mendelssohn",
+    "Titolo": "L'enigma delle piramidi",
+    "Editore": "Mondadori",
+    "Scaffale": "4",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "Oscar Mondadori"
+  },
+  {
+    "Autore": "Carlos M. Rama",
+    "Titolo": "Le imprese multinazionali nell'America Latina",
+    "Editore": "Mursia",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Geoffrey Marcus",
+    "Titolo": "Il viaggio inaugurale del Titanic",
+    "Editore": "Mursia",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Enzo Biagi",
+    "Titolo": "Disonora il padre",
+    "Editore": "Rizzoli",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "(dorso poco leggibile)",
+    "Editore": "",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Jean Ziegler",
+    "Titolo": "Una Svizzera al di sopra di ogni sospetto",
+    "Editore": "Mondadori",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dietrich Bonhoeffer",
+    "Titolo": "Creazione e caduta - L'ora della tentazione",
+    "Editore": "Queriniana",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Bruno Perotti",
+    "Titolo": "La notte dei cristalli",
+    "Editore": "Mursia",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Erich Fromm",
+    "Titolo": "Avere o essere?",
+    "Editore": "Mondadori",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Primo Levi",
+    "Titolo": "Se questo è un uomo",
+    "Editore": "Einaudi",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "L'avenir est notre affaire",
+    "Editore": "",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Leif Backlund",
+    "Titolo": "Che cos'è il dollaro",
+    "Editore": "Stock",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Hermann Hesse",
+    "Titolo": "Siddharta",
+    "Editore": "Adelphi",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ferruccio Parazzoli",
+    "Titolo": "Il giro del mondo",
+    "Editore": "",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "William H. Prescott",
+    "Titolo": "La conquista del Messico",
+    "Editore": "",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "João Guimarães Rosa",
+    "Titolo": "Grande Sertão",
+    "Editore": "Feltrinelli",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Carlos Fuentes",
+    "Titolo": "La morte di Artemio Cruz",
+    "Editore": "Feltrinelli",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ugo Foscolo",
+    "Titolo": "Lettera apologetica",
+    "Editore": "Einaudi",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "(dorso poco leggibile)",
+    "Editore": "",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "Le basi autoritarie della Spagna democratica",
+    "Editore": "",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Carlo Cassola",
+    "Titolo": "Il superstite",
+    "Editore": "Rizzoli",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Enzo Biagi",
+    "Titolo": "La geografia di Biagi: Cina",
+    "Editore": "Rizzoli",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Robinson 80",
+    "Editore": "",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Jaime de Angulo",
+    "Titolo": "Racconti indiani",
+    "Editore": "Mondadori",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "Oscar Mondadori"
+  },
+  {
+    "Autore": "Isaac Asimov",
+    "Titolo": "Civiltà extraterrestri",
+    "Editore": "Mondadori",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Domitila Barrios de Chungara",
+    "Titolo": "Chiedo la parola. Testimonianza di Domitila",
+    "Editore": "Feltrinelli",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Vittoria Alliata",
+    "Titolo": "Harem",
+    "Editore": "Garzanti",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Milan Kundera",
+    "Titolo": "Il libro del riso e dell'oblio",
+    "Editore": "Bompiani",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Giovanni Verga",
+    "Titolo": "Mastro-don Gesualdo",
+    "Editore": "",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Giovannino Guareschi",
+    "Titolo": "Gente così",
+    "Editore": "Rizzoli",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Thomas Ferenczi",
+    "Titolo": "Le Prince au miroir",
+    "Editore": "Albin Michel",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giovanni Verga",
+    "Titolo": "Tutte le novelle",
+    "Editore": "Mondadori",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "René Dumont",
+    "Titolo": "La croissance... de la famine!",
+    "Editore": "Seuil",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Bellarmino Bagatti",
+    "Titolo": "Alle origini della Chiesa",
+    "Editore": "Libreria Editrice Vaticana",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Elisabeth Badinter",
+    "Titolo": "L'amore in più",
+    "Editore": "Longanesi",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Marco Polo",
+    "Titolo": "Il Milione",
+    "Editore": "",
+    "Scaffale": "5",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Piero Ottone",
+    "Titolo": "Giornale di bordo",
+    "Editore": "Longanesi",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Renato Barneschi",
+    "Titolo": "Frau von Weber",
+    "Editore": "Rusconi",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Elsa Morante",
+    "Titolo": "Aracoeli",
+    "Editore": "Einaudi",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ammann; Barletta",
+    "Titolo": "Nella terra degli dei",
+    "Editore": "Dall'Oglio",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "George Orwell",
+    "Titolo": "1984",
+    "Editore": "Mondadori",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Natalia Ginzburg",
+    "Titolo": "La famiglia Manzoni",
+    "Editore": "Einaudi",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gabriel García Márquez",
+    "Titolo": "La mala hora",
+    "Editore": "",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Alberto Bevilacqua",
+    "Titolo": "Il curioso delle donne",
+    "Editore": "Mondadori",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Cesare Marchi",
+    "Titolo": "Dante",
+    "Editore": "Rizzoli",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Carl Rogers",
+    "Titolo": "Un modo di essere",
+    "Editore": "",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "James Cornell",
+    "Titolo": "I primi osservatori",
+    "Editore": "Feltrinelli",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Marguerite Yourcenar",
+    "Titolo": "Memorie di Adriano",
+    "Editore": "Einaudi",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Raymond Moody",
+    "Titolo": "La vita oltre la vita",
+    "Editore": "Mondadori",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Jorge Amado",
+    "Titolo": "Gabriella garofano e cannella",
+    "Editore": "Editori Riuniti",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Bertrand Poirot-Delpech",
+    "Titolo": "L'été 36",
+    "Editore": "Gallimard",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giorgio Bocca",
+    "Titolo": "Italia anno uno",
+    "Editore": "Garzanti",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ivan Illich",
+    "Titolo": "Il genere e il sesso",
+    "Editore": "Mondadori",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alexander Lowen",
+    "Titolo": "Il piacere",
+    "Editore": "Astrolabio",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Isaac Asimov",
+    "Titolo": "Le grandi storie della fantascienza, 12 (1950)",
+    "Editore": "",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Giancarlo Schizzerotto",
+    "Titolo": "Sette secoli di volgare e di dialetto mantovano",
+    "Editore": "Publi-Paolini",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Simone Signoret",
+    "Titolo": "Addio Volodia",
+    "Editore": "Mondadori",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "D.H. Lawrence",
+    "Titolo": "L'amante di Lady Chatterley",
+    "Editore": "Mondadori",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Anna De Bo Boffino",
+    "Titolo": "Io, uomini",
+    "Editore": "",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Leon Uris",
+    "Titolo": "Exodus",
+    "Editore": "",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "(G. Pasquali? - dorso poco leggibile)",
+    "Editore": "",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Nezami",
+    "Titolo": "Leyla e Majnun",
+    "Editore": "Adelphi",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Wolfgang Hildesheimer",
+    "Titolo": "Mozart",
+    "Editore": "Sansoni",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Francesca Duranti",
+    "Titolo": "La casa sul lago della luna",
+    "Editore": "Rizzoli",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gabriel García Márquez",
+    "Titolo": "L'amore ai tempi del colera",
+    "Editore": "Mondadori",
+    "Scaffale": "6",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Paulo Coelho",
+    "Titolo": "L'Alchimista",
+    "Editore": "Bompiani",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gianni Vattimo",
+    "Titolo": "Credere di credere",
+    "Editore": "Garzanti",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alfred Einstein",
+    "Titolo": "Schubert",
+    "Editore": "",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Mo Yan",
+    "Titolo": "L'uomo che allevava i gatti",
+    "Editore": "Einaudi",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alexandra David-Néel",
+    "Titolo": "Mistici e maghi del Tibet",
+    "Editore": "Astrolabio",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Aldo Sonnino",
+    "Titolo": "Racconti chassidici dei nostri tempi",
+    "Editore": "Giuntina",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Elie Wiesel",
+    "Titolo": "La notte",
+    "Editore": "Giuntina",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "David Flusser",
+    "Titolo": "Jesus",
+    "Editore": "Morcelliana",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dava Sobel",
+    "Titolo": "Longitudine",
+    "Editore": "Rizzoli",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Viviane Forrester",
+    "Titolo": "L'orrore economico",
+    "Editore": "Ponte alle Grazie",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Simone Weil",
+    "Titolo": "Lettera a un religioso",
+    "Editore": "Adelphi",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Simon Singh",
+    "Titolo": "Fermat's Last Theorem",
+    "Editore": "Fourth Estate",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Eliette Abécassis",
+    "Titolo": "Qumran",
+    "Editore": "Tropea",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Paolo De Benedetti",
+    "Titolo": "Quale Dio?",
+    "Editore": "Morcelliana",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Carmine Di Sante",
+    "Titolo": "Responsabilità",
+    "Editore": "Morcelliana",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Amos Luzzatto",
+    "Titolo": "Una lettura ebraica del Cantico dei Cantici",
+    "Editore": "Giuntina",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Emanuela Trevisan Semi",
+    "Titolo": "Allo specchio dei Falascià",
+    "Editore": "Giuntina",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alexandra David-Néel",
+    "Titolo": "Grand Tibet et Vaste Chine",
+    "Editore": "Plon",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alexandra David-Néel; Lama Yongden",
+    "Titolo": "La vie surhumaine de Guésar de Ling",
+    "Editore": "Pocket",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jacques Duquesne",
+    "Titolo": "Le Dieu de Jésus",
+    "Editore": "Desclée de Brouwer / Grasset",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jostein Gaarder",
+    "Titolo": "Il viaggio di Elisabet",
+    "Editore": "Longanesi",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "André Néher",
+    "Titolo": "L'esilio della parola",
+    "Editore": "Marietti 1820",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Franco D'Agostino",
+    "Titolo": "Gilgameš",
+    "Editore": "Piemme",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alessandro Natta",
+    "Titolo": "L'altra Resistenza",
+    "Editore": "Einaudi",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Elie Wiesel",
+    "Titolo": "Il processo di Shamgorod",
+    "Editore": "Giuntina",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Il mito del Natale",
+    "Editore": "",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Robert Solé",
+    "Titolo": "L'Égypte, passion française",
+    "Editore": "Seuil",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Robert Graves; Raphael Patai",
+    "Titolo": "Les mythes hébreux",
+    "Editore": "Fayard",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alexandra David-Néel",
+    "Titolo": "Immortalité et réincarnation",
+    "Editore": "Pocket",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "El Hassan Bin Talal",
+    "Titolo": "Christianity in the Arab World",
+    "Editore": "Arabesque",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Marie Vidal",
+    "Titolo": "Le Juif Jésus et le Shabbat",
+    "Editore": "Albin Michel",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Heinrich Harrer",
+    "Titolo": "7 ans d'aventures au Tibet",
+    "Editore": "Arthaud",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jean-François Revel; Matthieu Ricard",
+    "Titolo": "Il monaco e il filosofo",
+    "Editore": "",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Fosco Maraini",
+    "Titolo": "Segreto Tibet",
+    "Editore": "Corbaccio",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Elisabeth Kübler-Ross",
+    "Titolo": "La morte è di vitale importanza",
+    "Editore": "Corbaccio",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Karen Blixen",
+    "Titolo": "Capricci del destino",
+    "Editore": "Feltrinelli",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Marie Vidal",
+    "Titolo": "Un Juif nommé Jésus",
+    "Editore": "Albin Michel",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Riccardo Calimani",
+    "Titolo": "Gesù ebreo",
+    "Editore": "Mondadori",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Joseph B. Soloveitchik",
+    "Titolo": "Riflessioni sull'ebraismo",
+    "Editore": "Giuntina",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Sergio I. Minerbi",
+    "Titolo": "Risposta a Sergio Romano",
+    "Editore": "Giuntina",
+    "Scaffale": "7",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "AA.VV.",
+    "Titolo": "Storia d'Italia. Gli ebrei in Italia (vol. I)",
+    "Editore": "Einaudi",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "AA.VV.",
+    "Titolo": "Storia d'Italia. Gli ebrei in Italia (vol. II)",
+    "Editore": "Einaudi",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Robert Mawson",
+    "Titolo": "La bambina Lazarus",
+    "Editore": "Mondadori",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Claude Baudez; Sydney Becquelin",
+    "Titolo": "L'America precolombiana. I Maya",
+    "Editore": "BUR Rizzoli",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "P. Lathuilière e altri",
+    "Titolo": "Dieu est-il laïque?",
+    "Editore": "Desclée de Brouwer",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Marc-Alain Ouaknin; Dory Rotnemer",
+    "Titolo": "Così giovane e già ebreo",
+    "Editore": "Piemme",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Catherine Chalier",
+    "Titolo": "Lévinas. L'utopie de l'humain",
+    "Editore": "Albin Michel",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jean Bottéro; Marc-Alain Ouaknin; Joseph Moingt",
+    "Titolo": "La più bella storia di Dio",
+    "Editore": "",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Riccardo Calimani",
+    "Titolo": "Capitali europee dell'ebraismo tra Ottocento e Novecento",
+    "Editore": "Mondadori",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Sergio Steffenoni",
+    "Titolo": "Un sogno etrusco",
+    "Editore": "Il Saggiatore",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Hans Magnus Enzensberger",
+    "Titolo": "Il mago dei numeri",
+    "Editore": "Einaudi",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ella Maillart",
+    "Titolo": "Croisières et caravanes",
+    "Editore": "Payot",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ella Maillart",
+    "Titolo": "Des monts célestes aux sables rouges",
+    "Editore": "Payot",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "David Blatner",
+    "Titolo": "Le gioie del π",
+    "Editore": "Garzanti",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Abraham B. Yehoshua",
+    "Titolo": "L'amante",
+    "Editore": "Einaudi",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Abraham B. Yehoshua",
+    "Titolo": "Viaggio alla fine del millennio",
+    "Editore": "Einaudi",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Massimo Baldacci",
+    "Titolo": "Il diluvio",
+    "Editore": "Mondadori",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Eric Fuchs",
+    "Titolo": "Desiderio e tenerezza",
+    "Editore": "Claudiana",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Egeria",
+    "Titolo": "Pellegrinaggio in Terra Santa",
+    "Editore": "",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Karen Armstrong",
+    "Titolo": "Gerusalemme",
+    "Editore": "Mondadori",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Mario Brelich",
+    "Titolo": "Il navigatore del diluvio",
+    "Editore": "Adelphi",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Guido Vigna",
+    "Titolo": "Storia di Mantova",
+    "Editore": "Camunia",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "James Hillman",
+    "Titolo": "L'anima del mondo",
+    "Editore": "",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "E.P. Sanders",
+    "Titolo": "Gesù. La verità storica",
+    "Editore": "Mondadori",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Fosco Maraini",
+    "Titolo": "Case, amori, universi",
+    "Editore": "Mondadori",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Paul Hoffman",
+    "Titolo": "L'uomo che amava solo i numeri",
+    "Editore": "Mondadori",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Karl Löwith",
+    "Titolo": "Spinoza",
+    "Editore": "",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Raimon Panikkar",
+    "Titolo": "La pienezza dell'uomo. Una cristofania",
+    "Editore": "Jaca Book",
+    "Scaffale": "8",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Etty Hillesum",
+    "Titolo": "Lettere 1942-1943",
+    "Editore": "Adelphi",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Etty Hillesum",
+    "Titolo": "Diario 1941-1943",
+    "Editore": "Adelphi",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Simon Singh",
+    "Titolo": "Codici & segreti",
+    "Editore": "Rizzoli",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dava Sobel",
+    "Titolo": "La figlia di Galileo",
+    "Editore": "Rizzoli",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giampaolo Pansa",
+    "Titolo": "Il bambino che guardava le donne",
+    "Editore": "Sperling & Kupfer",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Salomon Malka",
+    "Titolo": "Jésus rendu aux siens",
+    "Editore": "Albin Michel",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gabriella Tedeschi",
+    "Titolo": "L'ebraismo e la psicologia analitica",
+    "Editore": "Giuntina",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Antonio Baldo",
+    "Titolo": "Wandervögel",
+    "Editore": "",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Hal Hellman",
+    "Titolo": "Le dispute della scienza",
+    "Editore": "Raffaello Cortina",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "AA.VV.",
+    "Titolo": "Il libro tibetano dei morti",
+    "Editore": "TEA",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dava Sobel; William J.H. Andrewes",
+    "Titolo": "The Illustrated Longitude",
+    "Editore": "Fourth Estate",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Kim Knott",
+    "Titolo": "Induismo",
+    "Editore": "Einaudi",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alain Elkann",
+    "Titolo": "Le mura di Gerusalemme",
+    "Editore": "Bompiani",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Stanislas Dehaene",
+    "Titolo": "Il pallino della matematica",
+    "Editore": "Mondadori",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Diana Preston",
+    "Titolo": "Scott, l'eroe dei ghiacci",
+    "Editore": "",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "François Le Lionnais",
+    "Titolo": "Les nombres remarquables",
+    "Editore": "Hermann",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alexandra David-Néel",
+    "Titolo": "L'Inde où j'ai vécu",
+    "Editore": "Pocket",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Amin Maalouf",
+    "Titolo": "L'identità",
+    "Editore": "Bompiani",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "André Glucksmann",
+    "Titolo": "La troisième mort de Dieu",
+    "Editore": "NiL",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "R.K. Narayan",
+    "Titolo": "Il Mahābhārata",
+    "Editore": "Guanda",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Christiane Kohl",
+    "Titolo": "L'ebreo e la ragazza",
+    "Editore": "",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Milan Kundera",
+    "Titolo": "L'identità",
+    "Editore": "Adelphi",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Apostolos Doxiadis",
+    "Titolo": "Zio Petros e la congettura di Goldbach",
+    "Editore": "Bompiani",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Anna Quilici; Folco Quilici",
+    "Titolo": "Amundsen",
+    "Editore": "Piemme",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alberto Pincherle",
+    "Titolo": "Vita di sant'Agostino",
+    "Editore": "Laterza",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jean-Claude Carrière",
+    "Titolo": "Le vin bourru",
+    "Editore": "Plon",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Amin Maalouf",
+    "Titolo": "Il periplo di Baldassarre",
+    "Editore": "Bompiani",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Amin Maalouf",
+    "Titolo": "Les croisades vues par les Arabes",
+    "Editore": "J'ai Lu",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Pietro Tarallo; Gian Maria Grasselli",
+    "Titolo": "Antiche vie del Giubileo",
+    "Editore": "Rizzoli",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Tahar Ben Jelloun",
+    "Titolo": "Creatura di sabbia",
+    "Editore": "Einaudi",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Fosco Maraini",
+    "Titolo": "Gasherbrum IV. La splendida cima",
+    "Editore": "Vivalda",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Amos Oz",
+    "Titolo": "My Michael",
+    "Editore": "Vintage",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Emmanuel Anati",
+    "Titolo": "Esodo. Tra mito e storia",
+    "Editore": "Edizioni del Centro Camuno",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Robert Thurman; Tad Wise",
+    "Titolo": "La montagna sacra",
+    "Editore": "",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "William Dalrymple",
+    "Titolo": "In India",
+    "Editore": "",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "B. Busato",
+    "Titolo": "Il cammino della speranza",
+    "Editore": "",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "su Jürgen Moltmann"
+  },
+  {
+    "Autore": "Amin Maalouf",
+    "Titolo": "Le crociate viste dagli arabi",
+    "Editore": "",
+    "Scaffale": "9",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Tiziano Terzani",
+    "Titolo": "Pelle di leopardo",
+    "Editore": "Longanesi",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Massimo Baldacci",
+    "Titolo": "Prima della Bibbia",
+    "Editore": "Laterza",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Vittorio Messori",
+    "Titolo": "Dicono che è risorto",
+    "Editore": "SEI",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ernst Kantorowicz",
+    "Titolo": "Federico II imperatore",
+    "Editore": "Garzanti",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Michael Hesemann",
+    "Titolo": "Titulus Crucis",
+    "Editore": "San Paolo",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Selma Lagerlöf",
+    "Titolo": "Gerusalemme",
+    "Editore": "Iperborea",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Shifra Horn",
+    "Titolo": "Quattro madri",
+    "Editore": "Fazi",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "L.C. Mandrelli",
+    "Titolo": "Arlette",
+    "Editore": "",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Silvio Tubini",
+    "Titolo": "Drio le scartassagne del tempo",
+    "Editore": "",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Maria Bacchi",
+    "Titolo": "Cercando Luisa",
+    "Editore": "Giuntina",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jochen Hemmleb; Larry A. Johnson; Eric R. Simonson",
+    "Titolo": "Ghosts of Everest",
+    "Editore": "Pan",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alfred Lansing",
+    "Titolo": "Endurance",
+    "Editore": "Carroll & Graf",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gavin Mortimer",
+    "Titolo": "Shackleton & the Antarctic Explorers",
+    "Editore": "Carlton",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alessandro Barbero",
+    "Titolo": "L'ultima rosa di Lautrec",
+    "Editore": "Mondadori",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Immanuello Romano",
+    "Titolo": "L'inferno e il paradiso",
+    "Editore": "Giuntina",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Fosco Maraini",
+    "Titolo": "Ore giapponesi",
+    "Editore": "Corbaccio",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Clare Colvin",
+    "Titolo": "La musica dei Gonzaga",
+    "Editore": "Corbaccio",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giorgio Montefoschi; Fiamma Nirenstein",
+    "Titolo": "Un solo Dio, tre verità",
+    "Editore": "Mondadori",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "AA.VV.",
+    "Titolo": "Cent'anni di racconti dal Giappone",
+    "Editore": "Mondadori",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Tiziano Terzani",
+    "Titolo": "Un indovino mi disse",
+    "Editore": "TEA",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Tiziano Terzani",
+    "Titolo": "In Asia",
+    "Editore": "TEA",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gabriel García Márquez",
+    "Titolo": "Dall'Europa e dall'America 1955-1960",
+    "Editore": "Mondadori",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Luigi Lombardi Vallauri",
+    "Titolo": "Nera luce",
+    "Editore": "Le Lettere",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Paulo Coelho",
+    "Titolo": "Il cammino di Santiago",
+    "Editore": "Bompiani",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Emmanuelle-Marie",
+    "Titolo": "Un Dio del quotidiano",
+    "Editore": "Àncora",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Sergio Romano",
+    "Titolo": "I volti della storia",
+    "Editore": "Rizzoli",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giordano Bruno Guerri",
+    "Titolo": "Eretico e profeta",
+    "Editore": "Mondadori",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giulio Andreotti",
+    "Titolo": "Un gesuita in Cina",
+    "Editore": "Rizzoli",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giovanni Pettinato",
+    "Titolo": "Angeli e demoni a Babilonia",
+    "Editore": "Mondadori",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "AA.VV.",
+    "Titolo": "Qohélet",
+    "Editore": "Adelphi",
+    "Scaffale": "10",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Knut Hamsun",
+    "Titolo": "Pan",
+    "Editore": "Adelphi",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Roberto Calasso",
+    "Titolo": "Ka",
+    "Editore": "Adelphi",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Edgar Morin",
+    "Titolo": "I sette saperi necessari all'educazione del futuro",
+    "Editore": "Raffaello Cortina",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Elena Loewenthal",
+    "Titolo": "L'ebraismo spiegato ai miei figli",
+    "Editore": "Bompiani",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Barbara Fiore",
+    "Titolo": "Il bosco del guaritore",
+    "Editore": "Bollati Boringhieri",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Arundhati Roy",
+    "Titolo": "Il dio delle piccole cose",
+    "Editore": "Guanda",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Isabel Allende",
+    "Titolo": "La città delle bestie",
+    "Editore": "TEA",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Anna Adamczyk; Gianluca Peciola",
+    "Titolo": "Non per fame, prego",
+    "Editore": "Feltrinelli",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Adam Hochschild",
+    "Titolo": "Gli spettri del Congo",
+    "Editore": "Rizzoli",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "David I. Kertzer",
+    "Titolo": "I papi contro gli ebrei",
+    "Editore": "Rizzoli",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Francesca Cavarocchi",
+    "Titolo": "La comunità ebraica di Mantova",
+    "Editore": "Giuntina",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giulietto Chiesa; Vauro",
+    "Titolo": "Afghanistan anno zero",
+    "Editore": "Guerini e Associati",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Luigi Sandri",
+    "Titolo": "Città santa e lacerata",
+    "Editore": "Monti",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Tiziano Terzani",
+    "Titolo": "Lettere contro la guerra",
+    "Editore": "Longanesi",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Roald Amundsen",
+    "Titolo": "Il mio volo polare",
+    "Editore": "Mondadori",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gianni Vattimo",
+    "Titolo": "Dopo la cristianità",
+    "Editore": "Garzanti",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Samhita Arni",
+    "Titolo": "Il Mahābhārata",
+    "Editore": "",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ettore Mo",
+    "Titolo": "Kabul",
+    "Editore": "Rizzoli",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alda Merini",
+    "Titolo": "Magnificat",
+    "Editore": "Frassinelli",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "AA.VV.",
+    "Titolo": "I centomila canti di Milarepa (vol. I)",
+    "Editore": "Adelphi",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Reinhold Messner",
+    "Titolo": "La seconda morte di Mallory",
+    "Editore": "Bollati Boringhieri",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alessandro Aruffo",
+    "Titolo": "L'islamismo militante",
+    "Editore": "Datanews",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Noam Chomsky",
+    "Titolo": "9-11",
+    "Editore": "Datanews",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "J.D. Salinger",
+    "Titolo": "Nove racconti",
+    "Editore": "Einaudi",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Noam Chomsky",
+    "Titolo": "11 settembre",
+    "Editore": "Marco Tropea",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Luciano De Crescenzo",
+    "Titolo": "Storia della filosofia medioevale",
+    "Editore": "Mondadori",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Martin Buber",
+    "Titolo": "L'eclissi di Dio",
+    "Editore": "Mondadori",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Habib Souaidia",
+    "Titolo": "La sporca guerra",
+    "Editore": "Editrice Berti",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giampiero Comolli",
+    "Titolo": "I pellegrini dell'assoluto",
+    "Editore": "",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Éric-Emmanuel Schmitt",
+    "Titolo": "Il vangelo secondo Pilato",
+    "Editore": "E/O",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Elena Loewenthal",
+    "Titolo": "Lo strappo nell'anima",
+    "Editore": "Frassinelli",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Tracy Chevalier",
+    "Titolo": "La ragazza con l'orecchino di perla",
+    "Editore": "Neri Pozza",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Joseph Conrad",
+    "Titolo": "Cuore di tenebra",
+    "Editore": "",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Joseph Roth",
+    "Titolo": "Giobbe",
+    "Editore": "",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gian Carlo Calza",
+    "Titolo": "Stile Giappone",
+    "Editore": "Einaudi",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Franco Cardini; Simonetta Della Seta",
+    "Titolo": "Il guardiano del Santo Sepolcro",
+    "Editore": "Mondadori",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "René Weis",
+    "Titolo": "Gli ultimi catari",
+    "Editore": "Mondadori",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Mo Yan",
+    "Titolo": "Sorgo rosso",
+    "Editore": "Einaudi",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "AA.VV.",
+    "Titolo": "Description de l'Égypte",
+    "Editore": "Taschen",
+    "Scaffale": "11",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Riccardo Calimani",
+    "Titolo": "Storia dell'ebreo errante",
+    "Editore": "Mondadori",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Victor Hugo",
+    "Titolo": "Notre-Dame de Paris",
+    "Editore": "",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giampaolo Pansa",
+    "Titolo": "I figli dell'Aquila",
+    "Editore": "Sperling & Kupfer",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jeremy Rifkin",
+    "Titolo": "Economia all'idrogeno",
+    "Editore": "Mondadori",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Rohinton Mistry",
+    "Titolo": "Un perfetto equilibrio",
+    "Editore": "Mondadori",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alessandro Baricco",
+    "Titolo": "Senza sangue",
+    "Editore": "Rizzoli",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Luciano Bonomi",
+    "Titolo": "Darwin, Galileo e il gatto di Downing Street",
+    "Editore": "Bertani",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Pietro Citati",
+    "Titolo": "La mente colorata",
+    "Editore": "Mondadori",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Chaim Potok",
+    "Titolo": "Vecchi a mezzanotte",
+    "Editore": "Garzanti",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Girolamo Arnaldi",
+    "Titolo": "L'Italia e i suoi invasori",
+    "Editore": "Laterza",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Maria Venturi",
+    "Titolo": "Chi perdona ha vinto",
+    "Editore": "Rizzoli",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giuseppe Barbaglio",
+    "Titolo": "Gesù ebreo di Galilea",
+    "Editore": "EDB",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ernesto Buonaiuti",
+    "Titolo": "Storia del cristianesimo",
+    "Editore": "Newton & Compton",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dacia Maraini",
+    "Titolo": "La nave per Kobe",
+    "Editore": "Rizzoli",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "V.S. Naipaul",
+    "Titolo": "Fedeli a oltranza",
+    "Editore": "Adelphi",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alessandro Baricco",
+    "Titolo": "Next",
+    "Editore": "Feltrinelli",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Rainer Maria Rilke",
+    "Titolo": "Lettere a un giovane poeta",
+    "Editore": "",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Rose de Freycinet",
+    "Titolo": "Journal du voyage à bord de l'Uranie",
+    "Editore": "Éditions du Gerfaut",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Louis-Ferdinand Céline",
+    "Titolo": "Viaggio al termine della notte",
+    "Editore": "Novecento",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gian Antonio Stella",
+    "Titolo": "L'orda",
+    "Editore": "Rizzoli",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gaspare Barbiellini Amidei",
+    "Titolo": "Le domande di tutti",
+    "Editore": "Rizzoli",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Fosco Maraini",
+    "Titolo": "Paropàmiso",
+    "Editore": "Mondadori",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Mark Kurlansky",
+    "Titolo": "Sale",
+    "Editore": "",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Karen Armstrong",
+    "Titolo": "La Bibbia. Una biografia",
+    "Editore": "Mondadori",
+    "Scaffale": "12",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso girato: identificazione incerta"
+  },
+  {
+    "Autore": "Claudio Magris",
+    "Titolo": "L'infinito viaggiare",
+    "Editore": "Mondadori",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Khaled Hosseini",
+    "Titolo": "Il cacciatore di aquiloni",
+    "Editore": "Piemme",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alda Merini",
+    "Titolo": "Corpo d'amore. Un incontro con Gesù",
+    "Editore": "Frassinelli",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "Trespassers on the Roof of the World",
+    "Editore": "",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Dan Brown",
+    "Titolo": "Il codice da Vinci",
+    "Editore": "Mondadori",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Federico Rampini",
+    "Titolo": "L'impero di Cindia",
+    "Editore": "Mondadori",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Umberto Eco",
+    "Titolo": "A passo di gambero",
+    "Editore": "Bompiani",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Daniel Kehlmann",
+    "Titolo": "La misura del mondo",
+    "Editore": "Feltrinelli",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Raffaele La Capria",
+    "Titolo": "L'amorosa inchiesta",
+    "Editore": "Mondadori",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Charles Howard-Bury",
+    "Titolo": "Mount Everest. The Reconnaissance 1921",
+    "Editore": "Pilgrims",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Livio Garzanti",
+    "Titolo": "(titolo da verificare)",
+    "Editore": "",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso poco leggibile"
+  },
+  {
+    "Autore": "Duccio Demetrio",
+    "Titolo": "Filosofia del camminare",
+    "Editore": "Raffaello Cortina",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Mirella Tenderini; Michael Shandrick",
+    "Titolo": "Vita di un esploratore gentiluomo",
+    "Editore": "",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Nadia Fusini",
+    "Titolo": "Possiedo la mia anima",
+    "Editore": "Mondadori",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Khaled Fouad Allam",
+    "Titolo": "La solitudine dell'Occidente",
+    "Editore": "Rizzoli",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Rudyard Kipling",
+    "Titolo": "Kim",
+    "Editore": "Mondadori",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Carlos Ruiz Zafón",
+    "Titolo": "L'ombra del vento",
+    "Editore": "Mondadori",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Virginia Woolf",
+    "Titolo": "Fra i suoi contemporanei",
+    "Editore": "",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Giuseppe Cederna",
+    "Titolo": "Il grande viaggio",
+    "Editore": "Feltrinelli",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Eric Shipton",
+    "Titolo": "Quel mondo inesplorato. Autobiografia",
+    "Editore": "",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Peter Hopkirk",
+    "Titolo": "Il Grande Gioco",
+    "Editore": "Vivalda",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Amartya Sen",
+    "Titolo": "Identità e violenza",
+    "Editore": "Laterza",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Roger Fry",
+    "Titolo": "Mantegna",
+    "Editore": "",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Edward Bulwer-Lytton",
+    "Titolo": "Gli ultimi giorni di Pompei",
+    "Editore": "BUR",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Siobhan Roberts",
+    "Titolo": "Il re dello spazio infinito",
+    "Editore": "",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Rossana Rossanda",
+    "Titolo": "La ragazza del secolo scorso",
+    "Editore": "Einaudi",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Orhan Pamuk",
+    "Titolo": "Istanbul",
+    "Editore": "Einaudi",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Bruno Schulz",
+    "Titolo": "Le botteghe color cannella",
+    "Editore": "Einaudi",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Corrado Augias; Mauro Pesce",
+    "Titolo": "Inchiesta su Gesù",
+    "Editore": "Mondadori",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "La guerra prima della guerra",
+    "Editore": "",
+    "Scaffale": "13",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso poco leggibile"
+  },
+  {
+    "Autore": "Samuele Romanelli",
+    "Titolo": "Visioni d'Oriente",
+    "Editore": "Giuntina",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Tiziano Terzani",
+    "Titolo": "La fine è il mio inizio",
+    "Editore": "Longanesi",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Griselda Pollock",
+    "Titolo": "Mary Cassatt",
+    "Editore": "Thames & Hudson",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Luigi Meneghello",
+    "Titolo": "Libera nos a Malo",
+    "Editore": "BUR",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Laura Laurenzi",
+    "Titolo": "Liberi di amare",
+    "Editore": "Rizzoli",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Orhan Pamuk",
+    "Titolo": "Neve",
+    "Editore": "Einaudi",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Federico Rampini",
+    "Titolo": "L'ombra di Mao",
+    "Editore": "Mondadori",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Annunziata 1977",
+    "Editore": "",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso poco leggibile"
+  },
+  {
+    "Autore": "Piergiorgio Odifreddi",
+    "Titolo": "Incontri con menti straordinarie",
+    "Editore": "Longanesi",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Anna Politkovskaja",
+    "Titolo": "Proibito parlare",
+    "Editore": "Mondadori",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Roberto Saviano",
+    "Titolo": "Gomorra",
+    "Editore": "Mondadori",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Christa Wolf",
+    "Titolo": "Cassandra",
+    "Editore": "e/o",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Erika Silvestri",
+    "Titolo": "Il commerciante di bottoni",
+    "Editore": "",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Lorenzo Gobbi",
+    "Titolo": "(titolo da verificare)",
+    "Editore": "",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso poco leggibile"
+  },
+  {
+    "Autore": "Jean Echenoz",
+    "Titolo": "Ravel",
+    "Editore": "Adelphi",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Azar Nafisi",
+    "Titolo": "Leggere Lolita a Teheran",
+    "Editore": "Adelphi",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Jacques Duquesne",
+    "Titolo": "Marie",
+    "Editore": "",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Claudine le Tourneur d'Ison",
+    "Titolo": "Rue des Sept Filles",
+    "Editore": "Albin Michel",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alexandra David-Néel",
+    "Titolo": "Voyage d'une Parisienne à Lhassa",
+    "Editore": "Pocket",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alexandra David-Néel",
+    "Titolo": "Journal de voyage / 2",
+    "Editore": "Pocket",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alexandra David-Néel",
+    "Titolo": "Journal de voyage / 1",
+    "Editore": "Pocket",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Milena Agus",
+    "Titolo": "Mal di pietre",
+    "Editore": "nottetempo",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ann Spangler; Jean Syswerda",
+    "Titolo": "Women of the Bible",
+    "Editore": "Zondervan",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "C.G. Bruce",
+    "Titolo": "The Assault on Mount Everest 1922",
+    "Editore": "Pilgrims",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "E.F. Norton",
+    "Titolo": "The Fight for Everest 1924",
+    "Editore": "Pilgrims",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Kailash. La montagna degli dèi",
+    "Editore": "",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Gabriele Nissim",
+    "Titolo": "Una bambina contro Stalin",
+    "Editore": "Mondadori",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "David Grossman",
+    "Titolo": "Vedi alla voce: amore",
+    "Editore": "Mondadori",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "P.F.M. Fellowes",
+    "Titolo": "First Over Everest 1933",
+    "Editore": "Pilgrims",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "William Dalrymple",
+    "Titolo": "L'assedio di Delhi",
+    "Editore": "Rizzoli",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Adriano Sofri",
+    "Titolo": "Chi è il mio prossimo",
+    "Editore": "Sellerio",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Niall Ferguson",
+    "Titolo": "Impero",
+    "Editore": "Mondadori",
+    "Scaffale": "14",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Erbario",
+    "Editore": "",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Sergio Romano",
+    "Titolo": "Con gli occhi dell'Islam",
+    "Editore": "Longanesi",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Franco Cardini",
+    "Titolo": "Il Signore della paura",
+    "Editore": "",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Daniel Mendelsohn",
+    "Titolo": "Gli scomparsi",
+    "Editore": "Neri Pozza",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Kader Abdolah",
+    "Titolo": "La casa della moschea",
+    "Editore": "Iperborea",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ryszard Kapuściński",
+    "Titolo": "Ebano",
+    "Editore": "Feltrinelli",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ryszard Kapuściński",
+    "Titolo": "Autoritratto di un reporter",
+    "Editore": "Feltrinelli",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Philip Roth",
+    "Titolo": "Patrimonio",
+    "Editore": "Einaudi",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Abraham B. Yehoshua",
+    "Titolo": "Fuoco amico",
+    "Editore": "Einaudi",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Rajaa Alsanea",
+    "Titolo": "Ragazze di Riad",
+    "Editore": "Mondadori",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dang Thuy Tram",
+    "Titolo": "Last Night I Dreamed of Peace",
+    "Editore": "",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Jenny Diski",
+    "Titolo": "Skating to Antarctica",
+    "Editore": "",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Robert F. Scott",
+    "Titolo": "Scott's Last Expedition. The Journals",
+    "Editore": "Pan",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Virginia Woolf",
+    "Titolo": "To the Lighthouse",
+    "Editore": "Penguin Classics",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Virginia Woolf",
+    "Titolo": "The Waves",
+    "Editore": "Penguin Classics",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Vito Mancuso",
+    "Titolo": "L'anima e il suo destino",
+    "Editore": "Raffaello Cortina",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Raniero La Valle",
+    "Titolo": "Se questo è un Dio",
+    "Editore": "",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Leonardo Sciascia",
+    "Titolo": "Todo modo",
+    "Editore": "Adelphi",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Vladimir Nabokov",
+    "Titolo": "Lolita",
+    "Editore": "Adelphi",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Virginia Woolf",
+    "Titolo": "I capolavori",
+    "Editore": "Mondadori",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Edoardo Boncinelli",
+    "Titolo": "L'etica della vita",
+    "Editore": "Rizzoli",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Philip Roth",
+    "Titolo": "Pastorale americana",
+    "Editore": "Einaudi",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Christine Garwood",
+    "Titolo": "Flat Earth",
+    "Editore": "Pan",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Flavia Arzeni",
+    "Titolo": "Un'educazione alla felicità",
+    "Editore": "",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "John Snelling",
+    "Titolo": "Il Monte Sacro",
+    "Editore": "",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Corrado Augias",
+    "Titolo": "I segreti di Londra",
+    "Editore": "Mondadori",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Giovanni Comisso",
+    "Titolo": "La mia casa di campagna",
+    "Editore": "",
+    "Scaffale": "15",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Angelo Del Boca",
+    "Titolo": "Gli italiani in Africa Orientale (vol. II)",
+    "Editore": "Mondadori",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Günter Grass",
+    "Titolo": "Sbucciando la cipolla",
+    "Editore": "Einaudi",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Eugenio Scalfari",
+    "Titolo": "L'uomo che non credeva in Dio",
+    "Editore": "Einaudi",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Paolo Giordano",
+    "Titolo": "La solitudine dei numeri primi",
+    "Editore": "Mondadori",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Beda il Venerabile",
+    "Titolo": "Storia degli inglesi",
+    "Editore": "",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Domenico De Masi",
+    "Titolo": "Ozio creativo",
+    "Editore": "BUR",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Attilio Brilli",
+    "Titolo": "Il viaggio in Italia",
+    "Editore": "Il Mulino",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Corrado Augias; Remo Cacitti",
+    "Titolo": "Inchiesta sul cristianesimo",
+    "Editore": "Mondadori",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Delphine de Vigan",
+    "Titolo": "Gli effetti secondari dei sogni",
+    "Editore": "Mondadori",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Marcus du Sautoy",
+    "Titolo": "Il disordine perfetto",
+    "Editore": "Rizzoli",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Angelo Del Boca",
+    "Titolo": "Gli italiani in Africa Orientale (vol. III)",
+    "Editore": "Mondadori",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Angelo Del Boca",
+    "Titolo": "Gli italiani in Africa Orientale (vol. IV)",
+    "Editore": "Mondadori",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gianfranco Ravasi",
+    "Titolo": "Breviario laico",
+    "Editore": "Mondadori",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "David Grossman",
+    "Titolo": "A un cerbiatto somiglia il mio amore",
+    "Editore": "Mondadori",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "(volume rilegato - titolo da verificare)",
+    "Editore": "",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "dorso poco leggibile"
+  },
+  {
+    "Autore": "Angelo Del Boca",
+    "Titolo": "Il mio Novecento",
+    "Editore": "Mondadori",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "Lo spirito gregario",
+    "Editore": "",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "C'era una volta",
+    "Editore": "BUR",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  },
+  {
+    "Autore": "Massimo Cirri; Filippo Solibello",
+    "Titolo": "Nostra eccellenza",
+    "Editore": "Chiarelettere",
+    "Scaffale": "16",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Raffaele Cantone",
+    "Titolo": "Solo per giustizia",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Hermann Hesse",
+    "Titolo": "(album/biografia - da verificare)",
+    "Editore": "",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Giuseppe Tucci",
+    "Titolo": "Il paese delle donne dai molti mariti",
+    "Editore": "",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Enzo Bianchi",
+    "Titolo": "Il pane di ieri",
+    "Editore": "Einaudi",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Philip Roth",
+    "Titolo": "Il fantasma esce di scena",
+    "Editore": "Einaudi",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Pietro Citati",
+    "Titolo": "La malattia dell'infinito",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "David Leavitt",
+    "Titolo": "Il matematico indiano",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Murasaki Shikibu",
+    "Titolo": "Storia di Genji",
+    "Editore": "Einaudi",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Paolo Maurensig",
+    "Titolo": "Gli amanti fiamminghi",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Paola Calvetti",
+    "Titolo": "Noi due come un romanzo",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Boris Pahor",
+    "Titolo": "Qui è proibito parlare",
+    "Editore": "Fazi",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Guido Rampoldi",
+    "Titolo": "La mendicante azzurra",
+    "Editore": "Feltrinelli",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Erri De Luca",
+    "Titolo": "Il giorno prima della felicità",
+    "Editore": "Feltrinelli",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Parag Khanna",
+    "Titolo": "I tre imperi",
+    "Editore": "Fazi",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Vito Mancuso",
+    "Titolo": "Rifondazione della fede",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Barbara Spinelli",
+    "Titolo": "Il sonno della memoria",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Marco Politi",
+    "Titolo": "La Chiesa del no",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Daria Bignardi",
+    "Titolo": "Non vi lascerò orfani",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Dalai Lama",
+    "Titolo": "Incontro con Gesù",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Edward Louis Bernays",
+    "Titolo": "Propaganda",
+    "Editore": "Fausto Lupetti",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "",
+    "Titolo": "I detti islamici di Gesù",
+    "Editore": "",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "curatore/editore da verificare"
+  },
+  {
+    "Autore": "J.M. Coetzee",
+    "Titolo": "Diario di un anno difficile",
+    "Editore": "Einaudi",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Paolo Farinella",
+    "Titolo": "Bibbia, parole, segreti, misteri",
+    "Editore": "",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "M. Ruggiero",
+    "Titolo": "La vita è follia?",
+    "Editore": "",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Piergiorgio Odifreddi",
+    "Titolo": "In principio era Darwin",
+    "Editore": "Longanesi",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Jean-Claude Ameisen",
+    "Titolo": "Dans la lumière et les ombres",
+    "Editore": "Fayard / Seuil",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Corrado Augias; Vito Mancuso",
+    "Titolo": "Disputa su Dio e dintorni",
+    "Editore": "Mondadori",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Patrick Desbois",
+    "Titolo": "«Fucilateli tutti»",
+    "Editore": "",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Marco Aime",
+    "Titolo": "La macchia della razza",
+    "Editore": "",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Keith Devlin",
+    "Titolo": "I problemi del millennio",
+    "Editore": "Longanesi",
+    "Scaffale": "17",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Alan Boss",
+    "Titolo": "L'universo affollato",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Walter Bonatti",
+    "Titolo": "I miei ricordi",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Günter Grass",
+    "Titolo": "Camera oscura",
+    "Editore": "Einaudi",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Federico Rampini",
+    "Titolo": "Slow economy",
+    "Editore": "Mondadori",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Vittorio Andreoli",
+    "Titolo": "Preti",
+    "Editore": "Piemme",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Piergiorgio Odifreddi",
+    "Titolo": "Hai vinto, Galileo!",
+    "Editore": "Mondadori",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Muriel Barbery",
+    "Titolo": "L'eleganza del riccio",
+    "Editore": "e/o",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Muriel Barbery",
+    "Titolo": "L'élégance du hérisson",
+    "Editore": "Gallimard",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Caterina Contini",
+    "Titolo": "Ipazia e la notte",
+    "Editore": "Longanesi",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Stuart Clark",
+    "Titolo": "I re del Sole. Il racconto dell'astronomia moderna",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Gad Lerner",
+    "Titolo": "Scintille",
+    "Editore": "Feltrinelli",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Irène Némirovsky",
+    "Titolo": "Due",
+    "Editore": "Adelphi",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Susan Barry",
+    "Titolo": "Vedere e rivedere",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Piero Rattalino",
+    "Titolo": "Chopin racconta Chopin",
+    "Editore": "Laterza",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Fritjof Capra",
+    "Titolo": "La rete della vita",
+    "Editore": "BUR",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Stephen Jay Gould",
+    "Titolo": "I Have Landed",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Lyndon Evans (Ed.)",
+    "Titolo": "The Large Hadron Collider: a Marvel of Technology",
+    "Editore": "CRC / EPFL Press",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Massimo Di Paola",
+    "Titolo": "Tibet addio",
+    "Editore": "Mursia",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Roger Lewers",
+    "Titolo": "Il sogno di Nabucodonosor",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "Ian Stewart",
+    "Titolo": "La piccola bottega delle curiosità matematiche del Professor Stewart",
+    "Editore": "Feltrinelli",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Marco Bianchi",
+    "Titolo": "Gli ottomila",
+    "Editore": "Mondadori",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Gerlinde Kaltenbrunner; Karin Steinbach",
+    "Titolo": "Da sola",
+    "Editore": "Corbaccio",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Penny Le Couteur; Jay Burreson",
+    "Titolo": "I bottoni di Napoleone",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Eric T. Bell",
+    "Titolo": "I grandi matematici",
+    "Editore": "BUR",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Tim Fischer; Tshering Tashi",
+    "Titolo": "Bold Bhutan Beckons",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Christian de Duve",
+    "Titolo": "Alle origini della vita",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Chris Impey",
+    "Titolo": "La fine di tutto",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "editore da verificare"
+  },
+  {
+    "Autore": "Luce Boulnois",
+    "Titolo": "La Route de la Soie",
+    "Editore": "Olizane",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Matteo Dominioni",
+    "Titolo": "Lo sfascio dell'impero. Gli italiani in Etiopia 1936-1941",
+    "Editore": "Laterza",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": ""
+  },
+  {
+    "Autore": "Ernest Hemingway",
+    "Titolo": "Il vecchio e il mare",
+    "Editore": "Mondadori",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "da verificare"
+  },
+  {
+    "Autore": "",
+    "Titolo": "Pensare per due",
+    "Editore": "",
+    "Scaffale": "18",
+    "ISBN": "",
+    "Copertina": "",
+    "Note": "autore da verificare"
+  }
+]
